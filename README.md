@@ -4,7 +4,8 @@
 規格型  
 ## 管理者/admin  
 MNTサークル:100%  
-所属/member:同上  
+## 所属/member  
+同上    
 ## 規則/rules  
   根拠情報参考
 ## 根拠情報/basis  
