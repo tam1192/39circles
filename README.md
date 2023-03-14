@@ -9,6 +9,6 @@ MNTサークル:100%
 ## 規則/rules  
   根拠情報参考
 ## 根拠情報/basis  
-  [39サークル規格](https://github.com/tam1192/39circlex-mnt)
+  [39サークル規格](https://github.com/tam1192/39circles-mnt)
 ## 履歴/version  
 2.8  
