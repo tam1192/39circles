@@ -1,7 +1,7 @@
 # ADW系列規則
 - NKIサークル
 - ADWプロジェクト
-- [Season3 5/3-7/31](../Season3.0.md)
+- [Season3 5/3-7/31](../seasons/Season3.0.md)
 ***
 
 ※ADW城下町は、discord規約を守ったうえで運営しています。　皆様もdiscord規約を遵守してくださいね。  
