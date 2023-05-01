@@ -1,0 +1,51 @@
+{
+    "name":{
+        "jp": "日金共和国",
+        "kana": "にっきんきょうわこく",
+        "en": "Repblic of nikkin"
+    },
+    "type": "service",
+    "class": "super",
+    "admin": [
+        {
+            "name": "dailys",
+            "percent": 70,
+            "superadmin": true,
+            "member": false
+        },
+        {
+            "name": "SekaiNI",
+            "percent": 30,
+            "superadmin": false,
+            "member": false
+        }
+    ],
+    "belongs": null,
+    "contents":{
+        "data":[
+            {
+                "name": "tripmc",
+                "tag": ["mcmaps"],
+                "url": "mc.adw.wjg.jp"
+            },
+            {
+                "name": "tripper",
+                "tag": ["wiki"],
+                "url": "www.adw.wjg.jp/"
+            },
+            {
+                "name": "政治",
+                "tag": [""]
+            }
+        ],
+        "rule":[
+
+        ]
+    },
+    "tags":[
+        "39ProjectStandard",
+        "PercentMethod",
+        "SekaiNI",
+        "dailys-group"
+    ]
+}
