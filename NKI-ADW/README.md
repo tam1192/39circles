@@ -61,6 +61,27 @@ MCサーバーは、NKIサークル-ADWプロジェクトが管理・運営す�
 
 ※MinecraftはMojang Synergies ABの商標です。  
 ※javaは、Oracle Corporationおよびその子会社、関連会社の米国およびその他の国における登録商標です。
+***
+## プロジェクトの構造
+名称：ADWプロジェクト  
+種類：サービス  
+種別：上級  
+所有：NKIサークル 100%  
+代表：同上  
+会員：(ADW城下町参考)  
+所属：なし  
+内容：  
+&emsp;情報：  
+&emsp;&emsp;城下町：  
+&emsp;&emsp;&emsp;付加情報：Discordサーバー  
+&emsp;&emsp;&emsp;url：https://discord.com/invite/4hVpKJS3rS  
+&emsp;&emsp;adwmc：  
+&emsp;&emsp;&emsp;付加情報：Minecraft-1.19.3 | url非公開  
+&emsp;規則：  
+&emsp;&emsp;上記  
+付加情報：39プロジェクト規格(season3) | 39シーズン | 39circleグループ
+
+
 
 ***
 [39サークル](https://github.com/tam1192/39circles/)  
