@@ -59,5 +59,9 @@ MCサーバーは、NKIサークル-ADWプロジェクトが管理・運営す�
 サバイバルモードのサーバーです。サーバーに負荷を与える行為やグリッチは許されていません。
 
 
-※MinecraftはMojang Synergies ABの商標です。
+※MinecraftはMojang Synergies ABの商標です。  
 ※javaは、Oracle Corporationおよびその子会社、関連会社の米国およびその他の国における登録商標です。
+
+***
+[39サークル](https://github.com/tam1192/39circles/)  
+[39サークル [ADW]城下町](https://discord.com/invite/6TeQ5nceEb)
